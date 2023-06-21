@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FavResto</string>
+    <string name="app_description">Aplikasi ini berisi tentang mencari 5 resto terdekat.</string>
+
+    <string name="nama">Gilang Dhiya Ulhaq</string>
+    <string name="nim">10120071</string>
+    <string name="kelas">IF2</string>
+    <string name="email">gilang.dhiya19@gmail.com</string>
+
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    <string name="desc_one">10120071 - Gilang Dhiya Ulhaq - IF2</string>
+    <string name="desc_two">Aplikasi ini berisi tentang mencari 5 resto terdekat.</string>
+    <string name="desc_three">Profile, Maps, About</string>
+    <string name="desc_fourth">Tugas Sensor Maps</string>
+
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>
